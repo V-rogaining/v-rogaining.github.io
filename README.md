@@ -1,1 +1,0 @@
-# vladimircyclogaine.github.io
