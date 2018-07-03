@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Архив
-permalink: /archive/
+permalink: /archive.html
 ---
 
 
