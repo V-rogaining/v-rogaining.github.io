@@ -18,14 +18,14 @@ avatar: https://raw.githubusercontent.com/vrogaining/vrogaining.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: AR-team-Blizzard-175710583252743
-  flickr:
+  email: admin@vrogaining.ru
+  facebook: test
+  flickr: test
 # github: vrogaining/vrogaining.github.io
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: _ # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
