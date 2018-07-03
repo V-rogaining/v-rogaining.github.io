@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/vrogaining/vrogaining.github.io/master
 footer-links:
   dribbble:
   email: admin@vrogaining.ru
-  facebook: test
-  vk: test
+  facebook: 
+  vk: vladimir_cyclogain
   flickr:
-  github: vrogaining/vrogaining.github.io
-  instagram: test
-  linkedin: test
+# github: vrogaining/vrogaining.github.io
+  instagram:
+  linkedin:
   pinterest:
   rss: _ # just type anything here for a working RSS icon
-  twitter: test
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: test # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
