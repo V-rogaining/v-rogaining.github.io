@@ -28,9 +28,11 @@ permalink: /archive
 
 [Результаты 3 часа](/archive/2015/res3.pdf)
 
-[Карта](/archive/2015/map.png)
+[Карта (PNG, 10,6 Мб)](/archive/2015/map.png)
 
-[Карта Семейного класса](/archive/2015/mapA4.png)
+[Карта Семейного класса (PNG, 4,3 Мб)](/archive/2015/mapA4.png)
+
+[Карта (OMAP)](/archive/2015/map.omap)
 
 [Пути участников 6 часов](/archive/2015/routes/results6.html)
 
