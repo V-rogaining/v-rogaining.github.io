@@ -17,6 +17,8 @@ title: Для начинающих
 
 * [Питание на рогейне (Константин Соловьёв)](http://nn.rogaine.ru/39-food-on-rogaining-article)
 
+* [Подробная статья о рогейне на Википедии](https://ru.wikipedia.org/wiki/Рогейн)
+
 
 Видео
 -----
