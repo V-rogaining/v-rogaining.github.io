@@ -12,7 +12,16 @@ title: Рогейн Петушки 2019
 
 [Список заявок](https://docs.google.com/spreadsheets/d/1ETNVOkWNXtUjjMxPhvPujf6hBiNqV7rXjRUijYXeKwQ)
 
-Новости на [официальной странице SURR в VK](https://vk.com/s_u_r_r). 
+Важно! Если в прошлом году вы оплатили стартовый взнос, вам полагается скидка 50%!
+
+Найдите себя в [таблице](https://docs.google.com/spreadsheets/d/1snUcehdtb4lZaa_0RqihlxqzF6ttbKwmUhbLh7WqZ5Q/edit?usp=sharing) 
+и самостоятельно рассчитайте скидку при оплате.
+
+Если вы не собираетесь участвовать и мы вам не вернули 50% от прошлогоднего взноса, 
+то обязательно напишите на [admin@vrogaining.ru](mailto:admin@vrogaining.ru). 
+В письме укажите номер карты для перевода.
+
+Новости рогейна на [официальной странице SURR в VK](https://vk.com/s_u_r_r). 
 
 <div id="vk_post_-169009251_253"></div>
 <script type="text/javascript" src="https://vk.com/js/api/openapi.js?162"></script>
