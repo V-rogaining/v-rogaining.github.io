@@ -12,10 +12,10 @@ title: Рогейн Петушки 2019
 
 [Список заявок](https://docs.google.com/spreadsheets/d/1ETNVOkWNXtUjjMxPhvPujf6hBiNqV7rXjRUijYXeKwQ)
 
-Важно! Если в прошлом году вы оплатили стартовый взнос, вам полагается скидка 50%!
+Важно! Если в прошлом году вы оплатили стартовый взнос, вам полагается скидка!
 
 Найдите себя в [таблице](https://docs.google.com/spreadsheets/d/1snUcehdtb4lZaa_0RqihlxqzF6ttbKwmUhbLh7WqZ5Q/edit?usp=sharing) 
-и самостоятельно рассчитайте скидку при оплате.
+и самостоятельно рассчитайте размер стартового взноса с учётом скидки.
 
 Если вы не собираетесь участвовать, и мы вам не вернули 50% от прошлогоднего взноса, 
 то обязательно напишите на [admin@vrogaining.ru](mailto:admin@vrogaining.ru). 
