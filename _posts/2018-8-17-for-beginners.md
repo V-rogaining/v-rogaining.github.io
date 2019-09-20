@@ -17,6 +17,8 @@ title: Для начинающих
 
 * [Питание на рогейне (Константин Соловьёв)](http://nn.rogaine.ru/39-food-on-rogaining-article)
 
+* [Интервью с Олегом Калининым. Как быть всегда в форме (2014)](https://www.x-race.info/news/26786/)
+
 * [Подробная статья о рогейне на Википедии](https://ru.wikipedia.org/wiki/Рогейн)
 
 
@@ -27,7 +29,7 @@ title: Для начинающих
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/II2kBWAIWrc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* Семинар «Стратегия и тактика в рогейнах» от чемпионов России, команды «Дети болот»
+* Семинар «Стратегия и тактика в рогейнах» от чемпионов России, серебрянных призёров чемпионата мира, команды «Дети болот»
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NaapckstH4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
