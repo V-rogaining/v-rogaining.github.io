@@ -19,6 +19,8 @@ title: Для начинающих
 
 * [Интервью с Олегом Калининым. Как быть всегда в форме (2014)](https://www.x-race.info/news/26786/)
 
+* [Советы для новичков: как подготовиться к первому рогейну (Ирина Новикова, 2017)](https://newrunners.ru/mag/sovety-dlya-novichkov-kak-podgotovitsya-k-pervomu-/)
+
 * [Подробная статья о рогейне на Википедии](https://ru.wikipedia.org/wiki/Рогейн)
 
 
