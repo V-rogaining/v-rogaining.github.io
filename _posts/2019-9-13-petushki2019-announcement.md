@@ -3,14 +3,19 @@ layout: post
 title: Рогейн Петушки 2019
 ---
 
-**Внимание!** Важное объявление. В связи с отсутствием времени мы не сможем провести рогейн. Приносим свои извинения! 
-Но старт состоится **28 сентября (суббота)** под руководством Евгения Батуева. Карта та же, дистанция другая.
+Старт состоится **28 сентября (суббота)** под руководством Евгения Батуева. Карта та же, что и в прошлом году, дистанция другая.
 
 [Положение](https://docs.google.com/document/d/1xjgXllj-WTP5odIsgJATstaDevzGz_kWBnCLDs8vEb8). 
+
+Старт в 12:00, регистрация с 8:30, выдача карт с 10:00.
 
 [Заявка](https://docs.google.com/forms/d/e/1FAIpQLSe604yHqEQo3HvptudfEVCd1v-bl4hT76E4Idv0E07VO30CmA/viewform)
 
 [Список заявок](https://docs.google.com/spreadsheets/d/1ETNVOkWNXtUjjMxPhvPujf6hBiNqV7rXjRUijYXeKwQ)
+
+[Схема прохода от станции Петушки](https://nakarte.me/#m=14/55.90467/39.45997&l=O&nktl=HAqe8mPPO_EKtYWDDH4RUA)
+
+[Схема проезда на автомобиле](https://nakarte.me/#m=13/55.91545/39.46049&l=O&nktl=vquiJLCOCsqENGXuyhy1UA)
 
 Важно! Если в прошлом году вы оплатили стартовый взнос, вам полагается скидка!
 
