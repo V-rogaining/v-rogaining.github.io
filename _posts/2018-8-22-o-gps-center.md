@@ -6,9 +6,11 @@ title: GPS трансляция
 На рогейне будет организована GPS трансляция передвижения команд.
 Для участия в трансляции необходимо иметь смартфон Android с модулем GPS.
 
-[Ссылка на трансляцию](http://viewer.o-gps-center.ru/viewer/event/4240/)
+[Ссылка на трансляцию (2019)](http://viewer.o-gps-center.ru/viewer/event/6483/)
 
-Начало 25 августа в 9:00.
+[Ссылка на трансляцию (2018)](http://viewer.o-gps-center.ru/viewer/event/4240/)
+
+Начало 28 сентября в 12:00.
 
 [Инструкция по установке приложения на смартфон](http://confluence.o-gps-center.ru/pages/viewpage.action?pageId=1212429)
 
