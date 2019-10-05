@@ -8,6 +8,8 @@ title: Результаты
 
 [Карта и с дистанцией (PDF)](/archive/2019/map.pdf)
 
+[Карта (OMAP)](/archive/2019/map.omap)
+
 
 *Семён Якимов*
 

@@ -4,6 +4,17 @@ title: Архив
 permalink: /archive
 ---
 
+### Владимирский рогейн 2019
+28 сентября 2019 г., Крутово, Петушинский район
+
+[Результаты](https://huhtilampi.github.io/petushki2019/result.html)
+
+[Карта (PDF)](/archive/2019/map.pdf)
+
+[Карта (OMAP)](/archive/2019/map.omap)
+
+
+
 ### Владимирский рогейн 2018
 25 августа 2018 г., Петушинский район
 
